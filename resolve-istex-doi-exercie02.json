@@ -1,0 +1,13 @@
+{
+	"get" : "doi",
+	"first" : true,
+	"resolveDOI" : true,
+	"$type" : {
+	   "get" : "doi-type"	
+	},
+	"$doi" : {
+	   "get" : "doi-DOI"
+	},
+	"mask":"type,doi",
+	"csv": "\t"
+}

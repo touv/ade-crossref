@@ -1,0 +1,14 @@
+{
+  "get" : "doi",
+  "first" : true,
+  "resolveDOI" : true,
+  "$title" : {
+	"get" : "doi-publication-title" 
+  },
+  "$issn" : {
+      "get" : "doi-ISSN",
+      "first" : true	  
+ },
+  "mask": "issn,title",
+  "csv": "\t"
+}

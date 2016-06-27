@@ -1,0 +1,9 @@
+cat ./istex-data.json | ./node_modules/bin/jbj    \
+			--text-output             \
+			--use ist                 \
+			--use parse               \
+			--multi-json              \
+			--json-path hits.\*       \
+			./resolve-istex-doi-exercie03.json  \
+            -                         ;
+

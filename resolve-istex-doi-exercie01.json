@@ -1,0 +1,5 @@
+{
+	"get" : "doi",
+	"first" : true,
+       "resolveDOI" : true
+}
