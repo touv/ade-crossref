@@ -1,5 +1,6 @@
 {
 	"get" : "doi",
+	"debug" : true
 	"first" : true,
        "resolveDOI" : true
 }

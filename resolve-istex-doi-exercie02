@@ -1,4 +1,4 @@
-cat ./istex-data.json | ./node_modules/bin/jbj    \
+cat ./istex-data.json | ./node_modules/.bin/jbj    \
 			--text-output             \
 			--use ist                 \
 			--use parse               \
