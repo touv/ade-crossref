@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/touv/crossref-workshop/issues"
   },
-  "homepage": "https://github.com/touv/crossref-workshop#readme"
+  "homepage": "https://github.com/touv/crossref-workshop#readme",
+  "dependencies": {
+    "jbj": "^4.4.2",
+    "jbj-command": "^3.0.0",
+    "jbj-ist": "^1.0",
+    "jbj-parse": "^1.0.0"
+  }
 }
